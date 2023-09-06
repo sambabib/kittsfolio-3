@@ -1,0 +1,16 @@
+.loader {
+  background: #fff;
+  opacity: 0.5;
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+  z-index: 99;
+}
+
+.background {
+  background: #000;
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+  z-index: 98;
+}

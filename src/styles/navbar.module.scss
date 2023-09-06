@@ -1,0 +1,24 @@
+.navbar {
+  position: fixed;
+  height: 70px;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 99;
+}
+
+.available {
+  display: inline-block;
+  width: 0.55rem;
+  height: 0.55rem;
+  border-radius: 50%;
+  background-color: #6db86b;
+  margin-right: 4px;
+}
+
+.hyphen {
+  width: 23px;
+  height: 1px;
+  background: #000;
+  margin: 0 4px;
+}
